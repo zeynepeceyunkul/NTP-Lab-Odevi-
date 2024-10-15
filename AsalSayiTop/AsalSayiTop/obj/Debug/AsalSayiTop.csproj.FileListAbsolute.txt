@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\AsalSayiTop\AsalSayiTop\bin\Debug\AsalSayiTop.exe.config
+C:\Users\User\source\repos\AsalSayiTop\AsalSayiTop\bin\Debug\AsalSayiTop.exe
+C:\Users\User\source\repos\AsalSayiTop\AsalSayiTop\bin\Debug\AsalSayiTop.pdb
+C:\Users\User\source\repos\AsalSayiTop\AsalSayiTop\obj\Debug\AsalSayiTop.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AsalSayiTop\AsalSayiTop\obj\Debug\AsalSayiTop.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AsalSayiTop\AsalSayiTop\obj\Debug\AsalSayiTop.exe
+C:\Users\User\source\repos\AsalSayiTop\AsalSayiTop\obj\Debug\AsalSayiTop.pdb
