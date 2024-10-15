@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Labirent\Labirent\bin\Debug\Labirent.exe.config
+C:\Users\User\source\repos\Labirent\Labirent\bin\Debug\Labirent.exe
+C:\Users\User\source\repos\Labirent\Labirent\bin\Debug\Labirent.pdb
+C:\Users\User\source\repos\Labirent\Labirent\obj\Debug\Labirent.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Labirent\Labirent\obj\Debug\Labirent.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Labirent\Labirent\obj\Debug\Labirent.exe
+C:\Users\User\source\repos\Labirent\Labirent\obj\Debug\Labirent.pdb
