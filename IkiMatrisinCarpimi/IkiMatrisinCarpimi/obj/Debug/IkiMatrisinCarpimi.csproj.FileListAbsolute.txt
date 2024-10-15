@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\IkiMatrisinCarpimi\IkiMatrisinCarpimi\bin\Debug\IkiMatrisinCarpimi.exe.config
+C:\Users\User\source\repos\IkiMatrisinCarpimi\IkiMatrisinCarpimi\bin\Debug\IkiMatrisinCarpimi.exe
+C:\Users\User\source\repos\IkiMatrisinCarpimi\IkiMatrisinCarpimi\bin\Debug\IkiMatrisinCarpimi.pdb
+C:\Users\User\source\repos\IkiMatrisinCarpimi\IkiMatrisinCarpimi\obj\Debug\IkiMatrisinCarpimi.csprojAssemblyReference.cache
+C:\Users\User\source\repos\IkiMatrisinCarpimi\IkiMatrisinCarpimi\obj\Debug\IkiMatrisinCarpimi.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IkiMatrisinCarpimi\IkiMatrisinCarpimi\obj\Debug\IkiMatrisinCarpimi.exe
+C:\Users\User\source\repos\IkiMatrisinCarpimi\IkiMatrisinCarpimi\obj\Debug\IkiMatrisinCarpimi.pdb
